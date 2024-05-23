@@ -1,4 +1,7 @@
 *Dataset and Benchmark for Urdu Natural Scenes Text Detection, Recognition and Visual Question Answering*
+
+Accepted by ICDAR 2024
+
 The link of our paper: https://arxiv.org/pdf/2405.12533
 
 Researchers and developers can download the dataset, including the full images, cropped word images, and annotations, from our official repository.
