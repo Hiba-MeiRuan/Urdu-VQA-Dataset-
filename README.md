@@ -1,4 +1,3 @@
-*Dataset and Benchmark for Urdu Natural Scenes Text Detection, Recognition and Visual Question Answering*
 # Dataset and Benchmark for Urdu Natural Scenes Text Detection, Recognition and Visual Question Answering
 Accepted by ICDAR 2024
 
