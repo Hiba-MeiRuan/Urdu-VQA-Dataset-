@@ -1,5 +1,5 @@
 # Dataset and Benchmark for Urdu Natural Scenes Text Detection, Recognition and Visual Question Answering
-![Uploading 13.jpg…]()
+
 
 Accepted by ICDAR 2024
 
