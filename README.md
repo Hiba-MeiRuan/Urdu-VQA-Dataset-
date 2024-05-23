@@ -12,5 +12,5 @@ The download link is as follows:
 Baidu Netdisk Link：https://pan.baidu.com/s/1Z8Aab9ETKkbPcMZjZ8bL9A 
 Extraction code：urdu 
 
-Google drive: coming soon
+Google drive: https://drive.google.com/file/d/10gjtRlQDyo_pNah7rgy87y4_BkGsmCuB/view?usp=drive_link
 
